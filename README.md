@@ -61,8 +61,8 @@ The project includes comprehensive test suites:
 2. Clone the repository:
 
 ```bash
-git clone [repository-url]
-cd clamm
+git clone https://github.com/Guap-Codes/Clamm_V3.git
+cd Clamm_V3
 ```
 
 3. Install dependencies:
@@ -89,7 +89,6 @@ Run invariant tests:
 ```bash
 forge test --match-contract CLAMMInvariantTest
 ```
-
 
 ## Key Features
 
